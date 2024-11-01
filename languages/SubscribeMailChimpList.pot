@@ -1,0 +1,66 @@
+# Copyright (C) 2018 SubscribeMailChimpList
+# This file is distributed under the same license as the SubscribeMailChimpList package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SubscribeMailChimpList\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: SubscribeMailChimpList.php:52, src/SubscribeMailChimpList/Widgets/SubscribeMailChimpWidget.php:42
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: src/SubscribeMailChimpList/Classes/Admin.php:20
+msgid "MailChimp API key"
+msgstr ""
+
+#: src/SubscribeMailChimpList/Classes/Admin.php:38
+msgid "MailChimp List id"
+msgstr ""
+
+#: src/SubscribeMailChimpList/Classes/Form.php:35
+msgid "Enter your E-mail..."
+msgstr ""
+
+#: src/SubscribeMailChimpList/Classes/Form.php:39
+msgid "Subscribe"
+msgstr ""
+
+#: src/SubscribeMailChimpList/Classes/MailChimpAjax.php:36
+msgid "You have subscribed"
+msgstr ""
+
+#: src/SubscribeMailChimpList/Classes/MailChimpAjax.php:38
+msgid "Success"
+msgstr ""
+
+#: src/SubscribeMailChimpList/Classes/MailChimpAjax.php:45
+msgid "Member Exists"
+msgstr ""
+
+#: src/SubscribeMailChimpList/Classes/MailChimpAjax.php:52
+msgid "Send failed"
+msgstr ""
+
+#: src/SubscribeMailChimpList/Classes/MailChimpAjax.php:60
+msgid "Invalid Email"
+msgstr ""
+
+#: src/SubscribeMailChimpList/Widgets/SubscribeMailChimpWidget.php:23
+msgid "Subscribe widget "
+msgstr ""
+
+#: src/SubscribeMailChimpList/Widgets/SubscribeMailChimpWidget.php:25
+msgid "Mailchimp subscribe form"
+msgstr ""
+
+#: src/SubscribeMailChimpList/Widgets/SubscribeMailChimpWidget.php:47
+msgid "Title"
+msgstr ""
